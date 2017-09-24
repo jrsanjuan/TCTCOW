@@ -1,5 +1,5 @@
 # TCTCOW
-Cube Puzzle game made with Unity 5.
+Cube Puzzle prototype made with Unity 5.
 
 ## CONTROLS
 - Move cube with the arrow keys
